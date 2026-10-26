@@ -164,7 +164,7 @@ Les tests manuels permettent de vérifier :
 
 ## 👨‍💻 Auteur
 
-**Marouane**
+**Marouane Touzani**
 
 Étudiant en Développement Web et Web Mobile à **YouCode, Nador**.
 
